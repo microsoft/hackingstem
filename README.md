@@ -1,6 +1,6 @@
 # Hacking STEM - Project Code Repositories
 
-Source code repositories for all of the microcontroller based projects at [https://aka.ms.hackingstem](https://aka.ms.hackingstem).
+Source code repositories for all of the microcontroller based projects at [https://aka.ms/hackingstem](https://aka.ms/hackingstem).
 
 ## Hacking STEM Projects
 
