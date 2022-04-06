@@ -11,8 +11,8 @@ Source code repositories for all of the microcontroller based projects at [https
 
 ### Increasing Power by Design - Windmill and Wind Turbine
 
-* [https://github.com/microsoft/hackingstem-windturbine-microbit](https://github.com/microsoft/hackingstem-windturbine-microbit)
 * [https://github.com/microsoft/hackingstem-windturbine-arduino](https://github.com/microsoft/hackingstem-windturbine-arduino)
+* [https://github.com/microsoft/hackingstem-windturbine-microbit](https://github.com/microsoft/hackingstem-windturbine-microbit)
 
 ### EC Meter - Electrical Conductivity Sensor
 
