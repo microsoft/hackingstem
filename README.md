@@ -53,8 +53,8 @@ Source code repositories for all of the microcontroller based projects at [https
 
 ### LEGO - Using Pythagorean theorem to Measure Topography - Distance Wheel and Angle Finder
 
-* [https://github.com/microsoft/hackingstem-mathtools-microbit](https://github.com/microsoft/hackingstem-mathtools-microbit)
 * [https://github.com/microsoft/hackingstem-mathtools-arduino](https://github.com/microsoft/hackingstem-mathtools-arduino)
+* [https://github.com/microsoft/hackingstem-mathtools-microbit](https://github.com/microsoft/hackingstem-mathtools-microbit)
 
 ### BBC Oceans - Exploring Shark Movement - Joystick
 
@@ -89,4 +89,3 @@ Source code repositories for all of the microcontroller based projects at [https
 ## Hacking STEM Project Templates
 
 * [https://github.com/microsoft/hackingstem-template-microbit](https://github.com/microsoft/hackingstem-template-microbit)
-* [https://github.com/microsoft/hackingstem-template-arduino](https://github.com/microsoft/hackingstem-template-arduino)
